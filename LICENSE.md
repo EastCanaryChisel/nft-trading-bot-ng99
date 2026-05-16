@@ -1,4 +1,4 @@
-# 
+# quantitative nft trading bot | trailing-stop + liquidity-analysis is the best nft trading bot, featuring trailing-stop and liquidity-analysis. Fast, smart, and optimized for NFT
 
 
 
